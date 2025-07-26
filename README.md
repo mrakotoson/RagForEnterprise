@@ -1,2 +1,1 @@
-# RagForEnterprise
-Workaround on Rag For enterprise (Manning Editio)
+# README.md
